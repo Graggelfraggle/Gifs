@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #eafaea;
+}
+
+.search {
+	margin:auto;
+	background-color: 'red';
+	padding: 50px;
+	width:70%;
+	font: arial;
+	text-align: center;
+}
+
+.gifcss {
+	display:inline;
+
+	
+	margin-top: 20px;
+	margin-right:20px;
+	margin-left:20px;
+}
